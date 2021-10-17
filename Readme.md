@@ -1,5 +1,5 @@
 # Product Management System (PMS)
-Product information management helps your team capture, optimize, and store information—all in one place—and distribute it to multiple destinations.
+Product management system helps your team capture, optimize, and store information—all in one place—and distribute it to multiple destinations.
 
 
 # Product Owner 
