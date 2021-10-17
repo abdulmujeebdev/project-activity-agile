@@ -1,4 +1,6 @@
 # Product Management System (PMS)
+Product information management helps your team capture, optimize, and store information—all in one place—and distribute it to multiple destinations.
+
 
 # Product Owner 
 Zuhair Naqi EP1850147
@@ -19,11 +21,11 @@ Asif Jabbar EP1850017
 ![Screenshot](https://images.squarespace-cdn.com/content/v1/5c600c0394d71a6ff79e24e2/1593693926460-GZOQD00HIIHI4764JMPB/Product+Vision+Overview?format=1000w)
 
 #### Near Vision:
-
+You’ve been managing product data with disparate systems for quite some time, and your series of spreadsheets and homegrown databases have worked up to this point. But over time, this approach becomes unwieldy, especially as your external channels multiply. PIM is a scalable infrastructure that can save your organization time, reduce errors in data, and improve your overall customer experience.
 
 #### Far Vision:
-
-
+You can easily manage your branches or other stores in different countries which may have different product catalog, manufacturers, tax etc.
+Multiple user roles due to multiple stores. Each store manager has its own identity in system so he can manage his own store.
 
 
 # Stackholders:
