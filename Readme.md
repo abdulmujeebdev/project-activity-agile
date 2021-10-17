@@ -18,34 +18,34 @@ Asif Jabbar EP1850017
 
 ![Screenshot](https://images.squarespace-cdn.com/content/v1/5c600c0394d71a6ff79e24e2/1593693926460-GZOQD00HIIHI4764JMPB/Product+Vision+Overview?format=1000w)
 
-### Near Vision:
+#### Near Vision:
 
 
-### Far Vision:
+#### Far Vision:
 
 
 
 
-### Stackholders:
+# Stackholders:
 
-### Business Managers and Business Architects;
+#### Business Managers and Business Architects;
 Business Analysts make predictions to understand the budget and the time that should be spent on the project. They work on detailed requirements and create project decomposition.
 
-### Project Sponsers
+#### Project Sponsers
 Project Sponsors are people that have an interest primarily in the success of the project rather than in its development process. They are usually called external stakeholders. 
 
-### Account and Sales Managers
+#### Account and Sales Managers
 
-### End Users
+#### End Users
 Our target audience is business owners who want to manage their stores online (just like Shopify).
 Your target audience is an essential link to the success of your project. That is why it is useful to engage end users in testing MVP or product beta-version to receive the initial feedback. Users’ feedback allows reviewing the work done and improve user experience.
 
-### Data Architects and Database Administrators
+#### Data Architects and Database Administrators
 
 
-Customers:
-Maaz Qureshi
-Abdul Sami
-Abdullah Qureshi
-Ahmed Anis
-Sameer shah
+# Customers:
+#### Maaz Qureshi (Fruit Shop)
+#### Abdul Sami (Multi vendor ecommerce store)
+#### Abdullah Qureshi (Tshirts online store)
+#### Ahmed Anis (Computer hardware store)
+#### Sameer shah (Online Kitchen)
