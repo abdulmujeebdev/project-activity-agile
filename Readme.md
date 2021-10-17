@@ -1,4 +1,4 @@
-# Product Management System PMS
+# Product Management System (PMS)
 
 # Product Owner 
 Zuhair Naqi EP1850147
