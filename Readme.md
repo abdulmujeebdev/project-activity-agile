@@ -1,19 +1,19 @@
-#Product Management System PMS
+# Product Management System PMS
 
-#Product Owner 
+# Product Owner 
 Zuhair Naqi EP1850147
 
-#scrum master 
+# Scrum master 
 Abdul Mujeeb EP1850001
 
-#Developers 
+# Developers 
 Asad Ali Khan
 khalid mehmood
 
 UI/UX 
 Asif Jabbar
 
-#Product Vision
+# Product Vision
 
 ##Near Vision:
 
